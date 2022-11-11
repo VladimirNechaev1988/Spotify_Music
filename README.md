@@ -1,6 +1,6 @@
 # Spotify Music Analysis
 
-This notebook contains analysis of a Spotify data set which contains top songs of 2010 to 2019 as measured by Billdoard. The data contains 14 columns which show different characteristics of the songs.
+This notebook contains an analysis of a Spotify data set that contains the top songs from 2010 to 2019 as measured by Billboard. The data contains 14 columns which show different characteristics of the songs.
 
 ## Data set
 
@@ -25,10 +25,14 @@ The data set used is uploaded to this folder and was originally taken from [this
 
 ## Objectives
 
-The notebook has a goal of performing a descriptive analysis and visualizations of the Spotify data set and cover the following topics:
+The notebook has a goal of performing a descriptive analysis and visualizations of the Spotify data set and covering the following topics:
 
 * Decide which artists are the most popular
 * Discuss the criteria for the popularity
 * See what year has the highest popularity and why
-* Analyse what genre people like the most
+* Analyze what genre people like the most
 * Demonstrate the role of outliers
+
+## Tools used
+
+This Jupyter notebook analysis is done in Python with the help of visualization libraries Seaborn and Matplotlib.
